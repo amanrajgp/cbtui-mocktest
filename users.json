@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "password": "admin@123",
+    "role": "admin",
+    "created": "2026-01-01",
+    "active": true
+  },
+  "silky": {
+    "password": "silky@123",
+    "role": "user",
+    "created": "2026-01-01",
+    "active": true
+  }
+}
