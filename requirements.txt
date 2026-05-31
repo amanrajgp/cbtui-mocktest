@@ -2,4 +2,3 @@ streamlit==1.31.0
 streamlit-option-menu==0.3.12
 pandas==2.1.4
 plotly==5.18.0
-bcrypt==4.1.2
